@@ -6,20 +6,25 @@
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - Coding Interview University
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books) - List of Free Learning Resources
 
+
 # Books, Tutorials, References
 
 * [mbrubeck/fast-rust](https://github.com/mbrubeck/fast-rust) - Writing Fast Rust Programs
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
 * [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
-
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
+* [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
+* [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
+
 
 # Sites
 
 * [Rustycrate](https://rustycrate.ru/)
 
+
 # Libs
 
+* [LooMaclin/tarantool_rs](https://github.com/LooMaclin/tarantool_rs/) - Sync/Async tarantool database connector.
+* [rtsisyk/tarantool-rust](https://github.com/rtsisyk/tarantool-rust) - A proof-of-concept Rust module for Tarantool.
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
-
 * [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
