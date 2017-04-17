@@ -15,6 +15,7 @@
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
 * [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
+* [rope_science](https://github.com/google/xi-editor/tree/master/doc/rope_science)
 
 
 # Sites
