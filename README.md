@@ -29,3 +29,4 @@
 * [rtsisyk/tarantool-rust](https://github.com/rtsisyk/tarantool-rust) - A proof-of-concept Rust module for Tarantool.
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
 * [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
+* [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
