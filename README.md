@@ -30,3 +30,10 @@
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
 * [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
 * [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
+
+
+# Info
+
+* [Rust release milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
+* [Rusty Dash](https://rusty-dash.com/)
+
