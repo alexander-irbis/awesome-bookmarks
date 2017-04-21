@@ -18,11 +18,6 @@
 * [rope_science](https://github.com/google/xi-editor/tree/master/doc/rope_science)
 
 
-# Sites
-
-* [Rustycrate](https://rustycrate.ru/)
-
-
 # Libs
 
 * [LooMaclin/tarantool_rs](https://github.com/LooMaclin/tarantool_rs/) - Sync/Async tarantool database connector.
@@ -33,9 +28,14 @@
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) -  Collection of cryptographic hash functions written in pure Rust
 
 
-
 # Info
 
 * [Rust release milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
 * [Rusty Dash](https://rusty-dash.com/)
 
+
+# Sites & Blogs
+
+* [This Week in Rust](https://this-week-in-rust.org/)
+* [Rustycrate](https://rustycrate.ru/)
+* [http://codecapsule.com/](http://codecapsule.com/)
