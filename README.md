@@ -22,12 +22,31 @@
 
 # Libs
 
+## Rust
+
 * [LooMaclin/tarantool_rs](https://github.com/LooMaclin/tarantool_rs/) - Sync/Async tarantool database connector.
 * [rtsisyk/tarantool-rust](https://github.com/rtsisyk/tarantool-rust) - A proof-of-concept Rust module for Tarantool.
-* [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
-* [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
 * [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) -  Collection of cryptographic hash functions written in pure Rust
+
+
+## Python
+
+* [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
+
+
+## JavaScript
+
+* [Redux](http://redux.js.org/) - [перевод](https://www.gitbook.com/book/rajdee/redux-in-russian/details)
+* [immutable-js](https://facebook.github.io/immutable-js/)
+* [RxJS 4](https://github.com/Reactive-Extensions/RxJS)
+* [RxJS 5](https://github.com/ReactiveX/RxJS)
+* [CycleJS](https://cycle.js.org/getting-started.html)
+
+
+## Postgres
+
+* [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
 
 
 # Info
