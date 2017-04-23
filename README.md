@@ -59,6 +59,7 @@
 
 # Sites & Blogs
 
-* [This Week in Rust](https://this-week-in-rust.org/)
-* [Rustycrate](https://rustycrate.ru/)
-* [http://codecapsule.com/](http://codecapsule.com/)
+* [This Week in Rust](https://this-week-in-rust.org/) - Handpicked Rust updates, delivered to your inbox.
+* [Rustycrate](https://rustycrate.ru/) - Русскоязычный сайт о языке программирования Rust
+* [More PyPy](https://morepypy.blogspot.com/) - PyPy Status Blog
+* [Codecapsule](http://codecapsule.com/) - Software and thoughts by Emmanuel Goossaert
