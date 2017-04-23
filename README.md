@@ -27,12 +27,14 @@
 * [LooMaclin/tarantool_rs](https://github.com/LooMaclin/tarantool_rs/) - Sync/Async tarantool database connector.
 * [rtsisyk/tarantool-rust](https://github.com/rtsisyk/tarantool-rust) - A proof-of-concept Rust module for Tarantool.
 * [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
-* [RustCrypto/hashes](https://github.com/RustCrypto/hashes) -  Collection of cryptographic hash functions written in pure Rust
+* [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
+* [BIP-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
 
 
 ## Python
 
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
+* [keon/algorithms](https://github.com/keon/algorithms) -  Minimal examples of data structures and algorithms in Python
 
 
 ## JavaScript
