@@ -42,6 +42,7 @@
 ## JavaScript
 
 * [Redux](http://redux.js.org/) - [перевод](https://www.gitbook.com/book/rajdee/redux-in-russian/details)
+* [bestguy/redux-ractive-qlock](https://github.com/bestguy/redux-ractive-qlock) - Redux and RactiveJS example
 * [immutable-js](https://facebook.github.io/immutable-js/)
 * [RxJS 4](https://github.com/Reactive-Extensions/RxJS)
 * [RxJS 5](https://github.com/ReactiveX/RxJS)
