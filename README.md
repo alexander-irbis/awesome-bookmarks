@@ -18,6 +18,7 @@
 * [Rope Science](https://github.com/google/xi-editor/tree/master/doc/rope_science)
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - [Теория категорий для программистов](https://habrahabr.ru/post/245797/)
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
+* [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 
 # Libs
