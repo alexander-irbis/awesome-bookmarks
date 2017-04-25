@@ -29,6 +29,7 @@
 * [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 * [BIP-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
+* [jpernst/rental](https://github.com/jpernst/rental) - Macro to generate self-borrowing structs
 
 
 ## Python
