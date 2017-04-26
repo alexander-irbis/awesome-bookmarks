@@ -32,7 +32,8 @@
 * [BIP-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
 * [jpernst/rental](https://github.com/jpernst/rental) - Macro to generate self-borrowing structs
 * [mitsuhiko/indicatif](https://github.com/mitsuhiko/indicatif) - A command line progress reporting library for Rust
-
+* [sebcrozet/nphysics](https://github.com/sebcrozet/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust. http://nphysics.org
+* [sebcrozet/nalgebra](https://github.com/sebcrozet/nalgebra) -  Linear algebra library for Rust. http://nalgebra.org
 
 ## Python
 
