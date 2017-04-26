@@ -31,6 +31,7 @@
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 * [BIP-rs](https://github.com/GGist/bip-rs) - BitTorrent Infrastructure Project In Rust
 * [jpernst/rental](https://github.com/jpernst/rental) - Macro to generate self-borrowing structs
+* [mitsuhiko/indicatif](https://github.com/mitsuhiko/indicatif) - A command line progress reporting library for Rust
 
 
 ## Python
