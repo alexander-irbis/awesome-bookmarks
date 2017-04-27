@@ -16,6 +16,7 @@
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
 * [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
 * [Rope Science](https://github.com/google/xi-editor/tree/master/doc/rope_science)
+* [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - [Теория категорий для программистов](https://habrahabr.ru/post/245797/)
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
@@ -25,6 +26,7 @@
 
 ## Rust
 
+* [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 * [LooMaclin/tarantool_rs](https://github.com/LooMaclin/tarantool_rs/) - Sync/Async tarantool database connector.
 * [rtsisyk/tarantool-rust](https://github.com/rtsisyk/tarantool-rust) - A proof-of-concept Rust module for Tarantool.
 * [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Grapheme Cluster and Word boundaries according to UAX#29 rules
@@ -68,6 +70,7 @@
 * [Rustycrate](https://rustycrate.ru/) - Русскоязычный сайт о языке программирования Rust
 * [More PyPy](https://morepypy.blogspot.com/) - PyPy Status Blog
 * [Codecapsule](http://codecapsule.com/) - Software and thoughts by Emmanuel Goossaert
+* [Ricardo Martins](https://ricardomartins.cc/) -  Computer Scientist. Rust contributor.
 
 
 # Sport
