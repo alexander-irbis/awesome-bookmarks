@@ -22,6 +22,10 @@
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
 
+## Cheatsheets
+
+* [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
+
 
 # Libs
 
