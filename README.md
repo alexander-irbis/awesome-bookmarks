@@ -21,6 +21,7 @@
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
+* [Библиотека Яндекса](https://events.yandex.ru/lib/talks/)
 
 ## Semantic Web
 
