@@ -22,7 +22,11 @@
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
 
-## Cheatsheets
+## Semantic Web
+
+* [Юрий Катков](https://habrahabr.ru/users/ganqqwerty/topics/)
+
+# Cheatsheets
 
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 
