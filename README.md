@@ -39,6 +39,11 @@
 * [Стоимость OpenGL команд](http://www.gamedev.ru/code/articles/opengl_overhead)
 
 
+# RFCs
+
+* [The pi type trilogy #1930 ](https://github.com/rust-lang/rfcs/issues/1930) - This issue is reference issue for the upcomming pi type trilogy.
+
+
 # Libs
 
 ## Rust
