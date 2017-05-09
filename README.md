@@ -60,6 +60,7 @@
 * [sebcrozet/nphysics](https://github.com/sebcrozet/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust. http://nphysics.org
 * [sebcrozet/nalgebra](https://github.com/sebcrozet/nalgebra) -  Linear algebra library for Rust. http://nalgebra.org
 * [mcarton/rust-derivative](https://github.com/mcarton/rust-derivative) - A set of alternative `derive` attributes for Rust
+* [shmutalov/gitter-rs](https://github.com/shmutalov/gitter-rs) - Gitter API
 
 ## Python
 
