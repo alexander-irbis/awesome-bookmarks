@@ -33,7 +33,7 @@
 # Cheatsheets
 
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
-* [Шпаргалка по типам-контейнерам Rust](https://forum.rustycrate.ru/t/shpargalka-po-tipam-kontejneram-rust/208)
+* [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
 
 
 # Benchmarks
