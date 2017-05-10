@@ -44,6 +44,7 @@
 # RFCs
 
 * [The pi type trilogy #1930 ](https://github.com/rust-lang/rfcs/issues/1930) - This issue is reference issue for the upcomming pi type trilogy.
+* [Rfc: delegation of implementation](https://github.com/rust-lang/rfcs/pull/1406)
 
 
 # Libs
