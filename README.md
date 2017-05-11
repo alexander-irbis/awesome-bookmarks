@@ -97,6 +97,7 @@
 * [RxJS 5](https://github.com/ReactiveX/RxJS)
 * [CycleJS](https://cycle.js.org/getting-started.html)
 * [RubaXa/wormhole](https://github.com/RubaXa/wormhole) - EventEmitter for communication between tabs
+* [Ramda](http://ramdajs.com/docs/) - A practical functional library for JavaScript programmers.
 
 
 ## Postgres
