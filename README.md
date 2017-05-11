@@ -20,6 +20,7 @@
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - An open source repository of design patterns and idioms in the Rust programming language.
 * [Rust Cookbook](https://brson.github.io/rust-cookbook/) - Cookin' with Rust
+* [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) - The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages.
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
 * [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
