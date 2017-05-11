@@ -40,13 +40,14 @@
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
 * [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) - [Rayon: параллелизм данных в Rust](https://habrahabr.ru/post/274299/)
 * [Writing VMODs...in rust](https://info.varnish-software.com/blog/writing-vmods-in-rust) - «A VMOD is a "Varnish MODule", a plugin that can be loaded and then used by the VCL to do... stuff»
-* [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
+* [Matrix Multiplication in Rust (Part 1)](https://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
 
 
 ## Cheatsheets
 
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 * [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
+* [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
 
 
 # Benchmarks
@@ -117,6 +118,7 @@
 * [Codecapsule](http://codecapsule.com/) - Software and thoughts by Emmanuel Goossaert
 * [Ricardo Martins](https://ricardomartins.cc/) -  Computer Scientist. Rust contributor.
 * [In Pursuit of Laziness](http://manishearth.github.io/) - Manish Goregaokar’s blog
+* [Suchin](https://www.suchin.co/) - Data science engineer
 
 
 # Sport
