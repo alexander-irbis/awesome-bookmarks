@@ -12,6 +12,7 @@
 * [ITABoK](https://www.iasaglobal.org/itabok/) - The World’s First IT Architecture Body of Knowledge
 * [mbrubeck/fast-rust](https://github.com/mbrubeck/fast-rust) - Writing Fast Rust Programs
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
+* [Rust Cookbook](https://brson.github.io/rust-cookbook/) - Cookin' with Rust
 * [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
