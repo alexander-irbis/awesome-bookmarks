@@ -7,31 +7,40 @@
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books) - List of Free Learning Resources
 
 
-# Books, Tutorials, References
+# Tutorials & References
+
+## Libraries
+
+* [Библиотека Яндекса](https://events.yandex.ru/lib/talks/)
+
+## Books
 
 * [ITABoK](https://www.iasaglobal.org/itabok/) - The World’s First IT Architecture Body of Knowledge
 * [mbrubeck/fast-rust](https://github.com/mbrubeck/fast-rust) - Writing Fast Rust Programs
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
 * [Rust Cookbook](https://brson.github.io/rust-cookbook/) - Cookin' with Rust
-* [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
 * [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
 * [Rope Science](https://github.com/google/xi-editor/tree/master/doc/rope_science)
-* [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - [Теория категорий для программистов](https://habrahabr.ru/post/245797/)
-* [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * [Red Book](http://www.opengl-redbook.com/) - The OpenGL® Programming Guide
+
+## Series of articles, courses
+
+* [Юрий Катков](https://habrahabr.ru/users/ganqqwerty/topics/) - Semantic Web
+* [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
+* [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
+
+## Articles
+
+* [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
+* [Writing VMODs...in rust](https://info.varnish-software.com/blog/writing-vmods-in-rust) - «A VMOD is a "Varnish MODule", a plugin that can be loaded and then used by the VCL to do... stuff»
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
-* [Библиотека Яндекса](https://events.yandex.ru/lib/talks/)
-
-## Semantic Web
-
-* [Юрий Катков](https://habrahabr.ru/users/ganqqwerty/topics/)
 
 
-# Cheatsheets
+## Cheatsheets
 
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 * [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
