@@ -100,6 +100,7 @@
 * [More PyPy](https://morepypy.blogspot.com/) - PyPy Status Blog
 * [Codecapsule](http://codecapsule.com/) - Software and thoughts by Emmanuel Goossaert
 * [Ricardo Martins](https://ricardomartins.cc/) -  Computer Scientist. Rust contributor.
+* [In Pursuit of Laziness](http://manishearth.github.io/) - Manish Goregaokar’s blog
 
 
 # Sport
