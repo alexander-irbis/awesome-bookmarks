@@ -17,6 +17,7 @@
 ## Books
 
 * [ITABoK](https://www.iasaglobal.org/itabok/) - The World’s First IT Architecture Body of Knowledge
+* [Unix / Linux tutorial for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [mbrubeck/fast-rust](https://github.com/mbrubeck/fast-rust) - Writing Fast Rust Programs
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - An open source repository of design patterns and idioms in the Rust programming language.
