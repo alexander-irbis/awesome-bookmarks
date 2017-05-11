@@ -36,6 +36,7 @@
 ## Articles
 
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Куча способов переиспользовать код в Rust](https://habrahabr.ru/post/307616/)
+* [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) - [Rayon: параллелизм данных в Rust](https://habrahabr.ru/post/274299/)
 * [Writing VMODs...in rust](https://info.varnish-software.com/blog/writing-vmods-in-rust) - «A VMOD is a "Varnish MODule", a plugin that can be loaded and then used by the VCL to do... stuff»
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
 
@@ -110,6 +111,7 @@
 * [Rustycrate](https://rustycrate.ru/) - Русскоязычный сайт о языке программирования Rust
 * [More PyPy](https://morepypy.blogspot.com/) - PyPy Status Blog
 * [Llogiq on stuff](https://llogiq.github.io/)
+* [Baby Steps](http://smallcultfollowing.com/babysteps/) - Niko Matsakis
 * [Codecapsule](http://codecapsule.com/) - Software and thoughts by Emmanuel Goossaert
 * [Ricardo Martins](https://ricardomartins.cc/) -  Computer Scientist. Rust contributor.
 * [In Pursuit of Laziness](http://manishearth.github.io/) - Manish Goregaokar’s blog
