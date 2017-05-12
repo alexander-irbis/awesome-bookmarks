@@ -52,6 +52,7 @@
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 * [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
+* [ES6 katas](http://es6katas.org/) - Learn ES6 by doing it.
 
 
 # Benchmarks
