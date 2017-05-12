@@ -11,7 +11,7 @@
 
 ## Libraries
 
-* [Библиотека Яндекса](https://events.yandex.ru/lib/talks/)
+* [Библиотека Яндекса](https://research.yandex.ru/lib/publications/), [Talks](https://events.yandex.ru/lib/talks/)
 * [ACL Anthology](http://aclanthology.info/)
 
 ## Books
