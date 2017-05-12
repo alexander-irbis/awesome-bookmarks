@@ -99,6 +99,7 @@
 * [CycleJS](https://cycle.js.org/getting-started.html)
 * [RubaXa/wormhole](https://github.com/RubaXa/wormhole) - EventEmitter for communication between tabs
 * [Ramda](http://ramdajs.com/docs/) - A practical functional library for JavaScript programmers.
+* [BlueBird](http://bluebirdjs.com/docs/api-reference.html) - Bluebird is a full featured promise library with unmatched performance
 
 
 ## Postgres
