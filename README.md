@@ -43,6 +43,7 @@
 * [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) - [Rayon: параллелизм данных в Rust](https://habrahabr.ru/post/274299/)
 * [Writing VMODs...in rust](https://info.varnish-software.com/blog/writing-vmods-in-rust) - «A VMOD is a "Varnish MODule", a plugin that can be loaded and then used by the VCL to do... stuff»
 * [Matrix Multiplication in Rust (Part 1)](https://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
+* [JavaScript Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 
 
 ## Cheatsheets
