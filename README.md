@@ -126,6 +126,7 @@
 * [Ricardo Martins](https://ricardomartins.cc/) -  Computer Scientist. Rust contributor.
 * [In Pursuit of Laziness](http://manishearth.github.io/) - Manish Goregaokar’s blog
 * [Suchin](https://www.suchin.co/) - Data science engineer
+* [Stephen Sherratt](https://gridbugs.org/) - systems hacker by day, game developer by night.
 
 
 # Sport
