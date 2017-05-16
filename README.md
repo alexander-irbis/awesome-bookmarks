@@ -90,6 +90,9 @@
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
 * [keon/algorithms](https://github.com/keon/algorithms) -  Minimal examples of data structures and algorithms in Python
 
+## Java
+
+* [dpaukov/combinatoricslib3](https://github.com/dpaukov/combinatoricslib3) - A library to generate permutations, combinations and other combinatorial sequences for Java 8
 
 ## JavaScript
 
