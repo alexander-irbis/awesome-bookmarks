@@ -33,6 +33,7 @@
 
 ## Series of articles, courses
 
+* [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) -  A bunch of links to blog posts, articles, videos, etc for learning Rust
 * [Юрий Катков](https://habrahabr.ru/users/ganqqwerty/topics/) - Semantic Web
 * [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 * [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
@@ -49,7 +50,11 @@
 
 ## Cheatsheets
 
+* [Rust cheatsheets](https://github.com/ctjhoa/rust-learning#cheat-sheets) - 
+* [rust-cheatsheet](http://phaiax.github.io/rust-cheatsheet/)
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
+* [Rust Futures Cheatsheet](https://rufflewind.com/img/rust-futures-cheatsheet.html)
+* [Time complexity of collections](https://doc.rust-lang.org/std/collections/#sequences)
 * [Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p)
 * [kmcallister/rustic-symmetries](https://github.com/kmcallister/rustic-symmetries) - Cheat sheet for concepts in Rust which come in matching sets or have some pleasing symmetry
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
@@ -63,6 +68,7 @@
 
 # RFCs
 
+* [RFCs](https://github.com/rust-lang/rfcs) -  RFCs for changes to Rust
 * [The pi type trilogy #1930 ](https://github.com/rust-lang/rfcs/issues/1930) - This issue is reference issue for the upcomming pi type trilogy.
 * [Rfc: delegation of implementation](https://github.com/rust-lang/rfcs/pull/1406)
 
