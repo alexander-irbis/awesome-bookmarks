@@ -123,6 +123,12 @@
 * [pg-strom/devel](https://github.com/pg-strom/devel) - PG-Strom is designed to utilize GPU devices to accelarate sequential scan, hash- based tables join and aggregate functions, at this moment
 
 
+# Tools
+
+* Rust Playground [1](https://play.rust-lang.org/) [2](http://play.integer32.com/)
+* [WasmExplorer](http://mbebenita.github.io/WasmExplorer/)
+
+
 # Info
 
 * [Rust release milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591)
