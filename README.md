@@ -94,6 +94,10 @@
 
 * [dpaukov/combinatoricslib3](https://github.com/dpaukov/combinatoricslib3) - A library to generate permutations, combinations and other combinatorial sequences for Java 8
 
+## C
+
+* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe: Global Vectors for Word Representation
+
 ## JavaScript
 
 * [Redux](http://redux.js.org/) - [перевод](https://www.gitbook.com/book/rajdee/redux-in-russian/details)
