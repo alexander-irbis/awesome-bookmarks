@@ -125,10 +125,16 @@
 
 # Tools
 
+## Online
+
 * Rust Playground [1](https://play.rust-lang.org/) [2](http://play.integer32.com/)
 * [Haxe Playground](https://try.haxe.org/)
 * [WasmExplorer](http://mbebenita.github.io/WasmExplorer/)
 * [Noun Project](https://thenounproject.com/) - Nearly a million curated icons, created by a global community
+
+## Utilities
+
+* [NishanthSpShetty/crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust Transpiler
 
 
 # Info
