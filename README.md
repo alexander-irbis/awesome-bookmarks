@@ -91,6 +91,7 @@
 * [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) - Machine Learning library for Rust
 * [mcarton/rust-derivative](https://github.com/mcarton/rust-derivative) - A set of alternative `derive` attributes for Rust
 * [shmutalov/gitter-rs](https://github.com/shmutalov/gitter-rs) - Gitter API
+* [michaelfairley/ezing](https://github.com/michaelfairley/ezing) -  Easing functions for Rust
 
 ## Python
 
