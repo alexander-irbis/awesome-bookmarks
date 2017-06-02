@@ -129,9 +129,10 @@
 ## Online
 
 * Rust Playground [1](https://play.rust-lang.org/) [2](http://play.integer32.com/)
+* [Compiler Explorer](https://rust.godbolt.org/)
+* [C++ Shell](http://cpp.sh/)
 * [Haxe Playground](https://try.haxe.org/)
 * [WasmExplorer](http://mbebenita.github.io/WasmExplorer/)
-* [C++ Shell](http://cpp.sh/)
 * [Noun Project](https://thenounproject.com/) - Nearly a million curated icons, created by a global community
 
 ## Utilities
