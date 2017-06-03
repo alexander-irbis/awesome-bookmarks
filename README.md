@@ -150,6 +150,7 @@
 
 * [This Week in Rust](https://this-week-in-rust.org/) - Handpicked Rust updates, delivered to your inbox.
 * [Rustycrate](https://rustycrate.ru/) - Русскоязычный сайт о языке программирования Rust
+* [Rust Belt](http://plv.mpi-sws.org/rustbelt/) - Logical Foundations for the Future of Safe Systems Programming
 * [More PyPy](https://morepypy.blogspot.com/) - PyPy Status Blog
 * [Llogiq on stuff](https://llogiq.github.io/)
 * [Baby Steps](http://smallcultfollowing.com/babysteps/) - Niko Matsakis
