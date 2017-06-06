@@ -92,6 +92,8 @@
 * [mcarton/rust-derivative](https://github.com/mcarton/rust-derivative) - A set of alternative `derive` attributes for Rust
 * [shmutalov/gitter-rs](https://github.com/shmutalov/gitter-rs) - Gitter API
 * [michaelfairley/ezing](https://github.com/michaelfairley/ezing) -  Easing functions for Rust
+* [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - QuickCheck is a way to do property based testing using randomly generated input
+* [blt/smallcheck](https://github.com/blt/smallcheck) - an exhaustive checker in Rust
 
 ## Python
 
