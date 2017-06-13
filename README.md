@@ -94,6 +94,7 @@
 * [michaelfairley/ezing](https://github.com/michaelfairley/ezing) -  Easing functions for Rust
 * [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - QuickCheck is a way to do property based testing using randomly generated input
 * [blt/smallcheck](https://github.com/blt/smallcheck) - an exhaustive checker in Rust
+* [japaric/criterion.rs](https://github.com/japaric/criterion.rs) - A statistics-driven micro-benchmarking library
 
 ## Python
 
