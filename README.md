@@ -96,18 +96,31 @@
 * [blt/smallcheck](https://github.com/blt/smallcheck) - an exhaustive checker in Rust
 * [japaric/criterion.rs](https://github.com/japaric/criterion.rs) - A statistics-driven micro-benchmarking library
 
+
+### Parsers
+
+* [Geal/nom](https://github.com/Geal/nom) - 
+* [ptal/oak](https://github.com/ptal/oak) - A typed parser generator embedded in Rust code for Parsing Expression Grammars
+* [J-F-Liu/pom](https://github.com/J-F-Liu/pom) - PEG parser combinators using operator overloading without macros
+* [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+* [nikomatsakis/lalrpop](https://github.com/nikomatsakis/lalrpop) - LR(1) parser generator for Rust
+
+
 ## Python
 
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
 * [keon/algorithms](https://github.com/keon/algorithms) -  Minimal examples of data structures and algorithms in Python
 
+
 ## Java
 
 * [dpaukov/combinatoricslib3](https://github.com/dpaukov/combinatoricslib3) - A library to generate permutations, combinations and other combinatorial sequences for Java 8
 
+
 ## C
 
 * [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe: Global Vectors for Word Representation
+
 
 ## JavaScript
 
