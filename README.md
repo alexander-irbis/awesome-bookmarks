@@ -22,6 +22,7 @@
 * [ruRust/rust_book_ru](https://github.com/ruRust/rust_book_ru) - The Rust Programming Language на русском языке
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - An open source repository of design patterns and idioms in the Rust programming language.
 * [Rust Cookbook](https://brson.github.io/rust-cookbook/) - Cookin' with Rust
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - A tutorial for the Rust language
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) - The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages.
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
@@ -46,6 +47,7 @@
 * [Writing VMODs...in rust](https://info.varnish-software.com/blog/writing-vmods-in-rust) - «A VMOD is a "Varnish MODule", a plugin that can be loaded and then used by the VCL to do... stuff»
 * [Matrix Multiplication in Rust (Part 1)](https://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
 * [JavaScript Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
+* [Graphics by Squares: a Gfx-rs Tutorial](https://suhr.github.io/gsgt/) - little tutorial to help people to learn gfx-rs
 
 
 ## Cheatsheets
@@ -95,6 +97,7 @@
 * [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - QuickCheck is a way to do property based testing using randomly generated input
 * [blt/smallcheck](https://github.com/blt/smallcheck) - an exhaustive checker in Rust
 * [japaric/criterion.rs](https://github.com/japaric/criterion.rs) - A statistics-driven micro-benchmarking library
+* [Thinkofname/stylish](https://github.com/Thinkofname/stylish) - A webrender based UI system that can (hopefully) be used in games.
 
 
 ### Parsers
@@ -154,6 +157,11 @@
 ## Utilities
 
 * [NishanthSpShetty/crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust Transpiler
+
+
+# Useful stuff, cliparts
+
+* [Flag icons](https://www.gosquared.com/resources/flag-icons/)
 
 
 # Info
