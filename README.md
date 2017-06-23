@@ -5,6 +5,7 @@
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - Awesome Machine Learning
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - Coding Interview University
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books) - List of Free Learning Resources
+* [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources
 
 
 # Tutorials & References
@@ -31,6 +32,7 @@
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - [Теория категорий для программистов](https://habrahabr.ru/post/245797/)
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * [Red Book](http://www.opengl-redbook.com/) - The OpenGL® Programming Guide
+* [The Book of Shaders](https://thebookofshaders.com/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
 ## Series of articles, courses
 
