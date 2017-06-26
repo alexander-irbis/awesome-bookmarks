@@ -15,6 +15,7 @@
 * [Библиотека Яндекса](https://research.yandex.ru/lib/publications/), [Talks](https://events.yandex.ru/lib/talks/)
 * [ACL Anthology](http://aclanthology.info/)
 
+
 ## Books
 
 * [ITABoK](https://www.iasaglobal.org/itabok/) - The World’s First IT Architecture Body of Knowledge
@@ -34,6 +35,12 @@
 * [Red Book](http://www.opengl-redbook.com/) - The OpenGL® Programming Guide
 * [The Book of Shaders](https://thebookofshaders.com/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
+
+## Tutorials
+
+* [gfx-rs Programming Tutorial](https://github.com/Luke-Diamond/gfx-rs-tutorial/) - The much-needed tutorial for the gfx-rs graphical abstraction for Rust
+
+
 ## Series of articles, courses
 
 * [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) -  A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -41,6 +48,7 @@
 * [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 * [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [ES6 in Depth](https://hacks.mozilla.org/category/es6-in-depth/)
+
 
 ## Articles
 
@@ -63,6 +71,7 @@
 * [kmcallister/rustic-symmetries](https://github.com/kmcallister/rustic-symmetries) - Cheat sheet for concepts in Rust which come in matching sets or have some pleasing symmetry
 * [ffmpeg](http://help.ubuntu.ru/wiki/ffmpeg)
 * [ES6 katas](http://es6katas.org/) - Learn ES6 by doing it.
+* [Third party cargo subcommands](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
 
 
 # Benchmarks
