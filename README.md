@@ -164,10 +164,12 @@
 * [Haxe Playground](https://try.haxe.org/)
 * [WasmExplorer](http://mbebenita.github.io/WasmExplorer/)
 * [Noun Project](https://thenounproject.com/) - Nearly a million curated icons, created by a global community
+* [Hash Functions](http://www.fileformat.info/tool/hash.htm)
 
 ## Utilities
 
 * [NishanthSpShetty/crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust Transpiler
+* [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 
 
 # Useful stuff, cliparts
