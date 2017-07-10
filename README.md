@@ -74,6 +74,11 @@
 * [Third party cargo subcommands](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
 
 
+## Tricks
+
+* [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades.
+
+
 # Benchmarks
 
 * [Стоимость OpenGL команд](http://www.gamedev.ru/code/articles/opengl_overhead)
