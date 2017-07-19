@@ -178,6 +178,13 @@
 * [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 
 
+# Services
+
+## Blockchain
+
+* [Bancor](https://www.bancor.network/) -  The Bancor protocol enables built-in price discovery and a liquidity mechanism for tokens on smart contract blockchains. These “smart tokens” hold one or more other tokens in reserve and enable any party to instantly purchase or liquidate the smart token in exchange for any of its reserve tokens, directly through the smart token’s contract, at a continuously calculated price, according to a formula which balances buy and sell volumes. 
+
+
 # Useful stuff, cliparts
 
 * [Flag icons](https://www.gosquared.com/resources/flag-icons/)
