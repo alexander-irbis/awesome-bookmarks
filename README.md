@@ -14,6 +14,7 @@
 
 * [Библиотека Яндекса](https://research.yandex.ru/lib/publications/), [Talks](https://events.yandex.ru/lib/talks/)
 * [ACL Anthology](http://aclanthology.info/)
+* [nikitavoloboev/learn-anything](https://github.com/nikitavoloboev/learn-anything) - Search Interactive Mind Maps to learn anything https://learn-anything.xyz
 
 
 ## Books
