@@ -40,6 +40,7 @@
 ## Tutorials
 
 * [gfx-rs Programming Tutorial](https://github.com/Luke-Diamond/gfx-rs-tutorial/) - The much-needed tutorial for the gfx-rs graphical abstraction for Rust
+* [Pixel Art](https://www.patreon.com/saint11/posts?tag=tutorial) - Pedro Medeiros is creating Pixel Art and other Game Dev stuff
 
 
 ## Series of articles, courses
@@ -121,6 +122,7 @@
 * [blt/smallcheck](https://github.com/blt/smallcheck) - an exhaustive checker in Rust
 * [japaric/criterion.rs](https://github.com/japaric/criterion.rs) - A statistics-driven micro-benchmarking library
 * [Thinkofname/stylish](https://github.com/Thinkofname/stylish) - A webrender based UI system that can (hopefully) be used in games.
+* [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - a full text search engine library written in rust
 
 
 ### Parsers
