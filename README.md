@@ -49,6 +49,7 @@
 * [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
 * [Graph theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [ES6 in Depth](https://hacks.mozilla.org/category/es6-in-depth/)
+* [Whiteboxcrypto](http://whiteboxcrypto.com/) - protecting cryptographic keys in software applications
 
 
 ## Articles
