@@ -75,6 +75,11 @@
 * [Third party cargo subcommands](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
 
 
+## Examples
+
+* [codecov/example-rust](https://github.com/codecov/example-rust) - This repository serves as an example of how to use the Codecov global uploader with Rust.
+
+
 ## Tricks
 
 * [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades.
@@ -182,7 +187,7 @@
 
 ## Blockchain
 
-* [Bancor](https://www.bancor.network/) -  The Bancor protocol enables built-in price discovery and a liquidity mechanism for tokens on smart contract blockchains. These “smart tokens” hold one or more other tokens in reserve and enable any party to instantly purchase or liquidate the smart token in exchange for any of its reserve tokens, directly through the smart token’s contract, at a continuously calculated price, according to a formula which balances buy and sell volumes. 
+* [Bancor](https://www.bancor.network/) - The Bancor protocol enables built-in price discovery and a liquidity mechanism for tokens on smart contract blockchains. These “smart tokens” hold one or more other tokens in reserve and enable any party to instantly purchase or liquidate the smart token in exchange for any of its reserve tokens, directly through the smart token’s contract, at a continuously calculated price, according to a formula which balances buy and sell volumes. 
 
 
 # Useful stuff, cliparts
