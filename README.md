@@ -138,6 +138,7 @@
 
 * [kmike/pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages
 * [keon/algorithms](https://github.com/keon/algorithms) -  Minimal examples of data structures and algorithms in Python
+* [Coverage.py](http://coverage.readthedocs.io/en/latest/) - a tool for measuring code coverage of Python programs
 
 
 ## Java
