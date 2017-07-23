@@ -123,6 +123,7 @@
 * [japaric/criterion.rs](https://github.com/japaric/criterion.rs) - A statistics-driven micro-benchmarking library
 * [Thinkofname/stylish](https://github.com/Thinkofname/stylish) - A webrender based UI system that can (hopefully) be used in games.
 * [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - a full text search engine library written in rust
+* [xd009642/keygraph-rs](https://github.com/xd009642/keygraph-rs) - This is a convenience library which stores adjacency graphs for physical keyboards
 
 
 ### Parsers
@@ -185,6 +186,7 @@
 
 * [NishanthSpShetty/crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust Transpiler
 * [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
+* [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - a code coverage reporting tool for the Cargo build system
 
 
 # Services
