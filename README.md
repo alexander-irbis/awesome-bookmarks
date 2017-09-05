@@ -124,6 +124,7 @@
 * [Thinkofname/stylish](https://github.com/Thinkofname/stylish) - A webrender based UI system that can (hopefully) be used in games.
 * [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - a full text search engine library written in rust
 * [xd009642/keygraph-rs](https://github.com/xd009642/keygraph-rs) - This is a convenience library which stores adjacency graphs for physical keyboards
+* [danielpclark/array_tool](https://github.com/danielpclark/array_tool) -  Array helpers for Rust's Vector and String types
 
 
 ### Parsers
