@@ -27,6 +27,7 @@
 * [Rust Cookbook](https://brson.github.io/rust-cookbook/) - Cookin' with Rust
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - A tutorial for the Rust language
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) - The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages.
+* [Discovery](https://japaric.github.io/discovery/) - Discover the world of microcontrollers through Rust!
 * [webtypography.net](http://webtypography.net/) - The Elements of Typographic Style Applied to the Web
 * [docs/current](https://www.postgresql.org/docs/current/static/index.html) - PostgreSQL Documentation
 * [postgresql.leopard.in.ua](http://postgresql.leopard.in.ua/) - Работа с PostgreSQL: настройка и масштабирование
